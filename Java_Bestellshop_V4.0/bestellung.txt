@@ -1,0 +1,2 @@
+Nr: 1 |   Name: Iphone 15  Preis: 849.0  Garantiezeit: 2  Lagerbestand: 11
+Nr: 2 |   Name: Iphone 15  Preis: 769.0  Garantiezeit: 2  Lagerbestand: 11
